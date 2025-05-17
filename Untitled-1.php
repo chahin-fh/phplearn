@@ -243,3 +243,22 @@ if($ahmad_is_bhim= true){
     $final_requist = $final_requist . ' and name = "hmd"';
 }
 echo $final_requist;*/
+// sort
+//natsort($array);
+//array map
+//array_map('fn' , $array , $oarray);
+// arrray filter chouf il zero
+//array reduce
+/*function mini($item1 ,$item2)
+{
+    if ($item1>$item2) {
+        $item1 = $item2;
+    }
+    return $item1;
+}
+$arr = [10,20,30,40,50,60,70,80,90,100];
+echo array_reduce($arr , 'mini' , 200);*/
+//all fn filter
+/*echo '<pre>';
+print_r(filter_list());
+echo '</pre>';*/
