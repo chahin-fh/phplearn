@@ -263,3 +263,4 @@ echo array_reduce($arr , 'mini' , 200);*/
 print_r(filter_list());
 echo '</pre>';*/
 /*raname("filepath","nowloc") ; //yhizlik il file min blassa li blassa */
+/*setcoockie(name,value,path(mohim yassir il path rw) ) // fazit */
